@@ -1,0 +1,21 @@
+.dialog {
+  text-align: center;
+  border-left: 4px solid #EEEEEE;
+}
+
+.dialog h1 {
+  font-size: 25px;
+}
+
+.dialog p {
+  font-size: 15px;
+  color: grey;
+}
+
+.btn {
+  margin: 5px 0px;
+}
+
+.new-link {
+  text-align: center;
+}
