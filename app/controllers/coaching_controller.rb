@@ -3,7 +3,6 @@ class CoachingController < ApplicationController
   def answer
     @questions = params[:query]
     @answer = coach_answer(@questions)
-
   end
 
   def ask
